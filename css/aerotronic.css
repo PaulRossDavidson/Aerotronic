@@ -1,0 +1,18 @@
+
+body{
+  background: linear-gradient(to left, white, blue);
+  text-align: center;
+  font-family: sans-serif;
+  overflow-x: hidden;
+  }
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: linear-gradient(grey, white, grey);
+  z-index: 1;
+  }
+li {
+  display: inline;
+  vertical-align: middle;
+  }
